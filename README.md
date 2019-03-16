@@ -45,7 +45,6 @@ diagram，也就是对于一系列内容复杂的信息，建立于理解的基�
 
 
 
-PS.转行并不是被迫，纠结过沉没成本和经历过磕磕绊绊的自学之路，只能祝自己顺利了😂
 
-👀最后，附图一张。
-![image]（https://github.com/xiaomeizhuang/openjudge_diagrams/blob/master/6257/6257diagram.jpg）
+
+👀最后，转行并不是被迫，纠结过沉没成本和经历过磕磕绊绊的自学之路，只能祝自己顺利了😂
